@@ -1,0 +1,1 @@
+Sitemap: https://hamelsmu.github.io/nbdev-minimal/sitemap.xml
